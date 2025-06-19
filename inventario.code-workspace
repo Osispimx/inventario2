@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name":"raiz_inventario",
+			"path": "."
+		},
+		{
+			"name":"inventario (app)",
+			"path": "inventario"
+		},
+		{
+			"name":"iniciar_sesion (app)",
+			"path": "iniciar_sesion"
+		},
+		{
+			"name":"lista_inventario (app)",
+			"path": "lista_inventario"
+		}
+	],
+	
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "raiz_inventario"
+	}
+}
