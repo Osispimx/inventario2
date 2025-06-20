@@ -15,7 +15,11 @@
 		{
 			"name":"lista_inventario (app)",
 			"path": "lista_inventario"
-		}
+		},
+		{
+			"name":"agregar_equipo (app)",
+			"path": "agregar_equipo"
+		},
 	],
 	
 	"settings": {
