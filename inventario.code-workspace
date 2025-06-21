@@ -13,12 +13,15 @@
 			"path": "iniciar_sesion"
 		},
 		{
-			"name":"lista_inventario (app)",
-			"path": "lista_inventario"
+			"name":"lista_cat (app)",
+			"path": "lista_categorias"
 		},
 		{
 			"name":"agregar_equipo (app)",
 			"path": "agregar_equipo"
+		},{
+			"name":"lista inventario (app)",
+			"path": "lista_inventario"
 		},
 	],
 	
