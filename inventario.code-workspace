@@ -17,9 +17,6 @@
 			"path": "lista_categorias"
 		},
 		{
-			"name":"agregar_equipo (app)",
-			"path": "agregar_equipo"
-		},{
 			"name":"lista inventario (app)",
 			"path": "lista_inventario"
 		},

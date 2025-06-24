@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AgregarEquipoConfig(AppConfig):
+class ReportesConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'agregar_equipo'
+    name = 'reportes'

@@ -38,9 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'lista_inventario',
-    'agregar_equipo',
     'lista_categorias',
     'iniciar_sesion',
+    'reportes'
 ]
 
 MIDDLEWARE = [
