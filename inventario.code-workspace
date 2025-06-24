@@ -20,6 +20,11 @@
 			"name":"lista inventario (app)",
 			"path": "lista_inventario"
 		},
+		{
+			"name":"reportes (app)",
+			"path": "reportes"
+		},
+		
 	],
 	
 	"settings": {
