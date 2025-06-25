@@ -41,10 +41,7 @@
                     Código
                 </th>
                 <th>
-                    Categoría
-                </th>
-                <th>
-                    Categoría
+                    Nombre
                 </th>
                 <th>
                     Stock total
@@ -57,7 +54,11 @@
         <tbody>
             <tr>
                 <td>
-                    inserte texto
+                    {% for categoria in categorias %}
+                        <li>{{ categoria.nombre }}</li>
+                    {% empty %}
+                        <li>No tienes categorías asignadas.</li>
+                    {% endfor %}
                 </td>
             </tr>
         </tbody>
