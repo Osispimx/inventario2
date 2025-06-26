@@ -10,7 +10,7 @@ def iniciar_sesion_view(request):
         user = authenticate(request, username=usuario, password=clave)
         if user is not None:
             login(request, user)
-            return redirect('home')  # vista en lista cat(app)
+            return redirect('categorias')  # vista en lista cat(app)
         else:
             messages.error(request, 'Usuario o contraseña incorrectos.')
     return render(request, 'login.html')
